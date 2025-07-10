@@ -162,7 +162,7 @@
 -
   index: 'map_33'
   country_name: 'CHINA'
-  visited: True
+  visited: false
 
 -
   index: 'map_34'
@@ -822,7 +822,7 @@
 -
   index: 'map_165'
   country_name: 'TUNISIA'
-  visited: false
+  visited: true
 
 -
   index: 'map_166'
@@ -867,7 +867,7 @@
 -
   index: 'map_174'
   country_name: 'UZBEKISTAN'
-  visited: false
+  visited: true
 
 -
   index: 'map_175'
